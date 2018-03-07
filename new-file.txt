@@ -1,2 +1,3 @@
 Created new-file.txt
 added some changes
+added changes
